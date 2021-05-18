@@ -7,7 +7,7 @@
 
     /*------------*/
 
-    $destinatario = "mix19942321gmail.com";
+    $destinatario = "mix19942321@gmail.com";
     $asunto = "Enviado desde nuestra pagina web";
 
     $carta = "De: $nombre \n";
